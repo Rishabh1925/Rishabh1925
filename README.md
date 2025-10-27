@@ -18,6 +18,7 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 <table>
 <tr>
 <td width="50%">
+
 - Passionate developer with a love for building innovative solutions and exploring cutting-edge technologies
   
 - Diving deep into the world of **Artificial Intelligence** and **Deep Learning**, constantly experimenting with neural networks and computational models
