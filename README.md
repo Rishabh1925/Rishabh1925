@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Hi, I am Rishabh
+<h2 align="center">Hi, I am Rishabh</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -11,8 +11,11 @@
 <br>
 
 Second-year Mathematics & Computer Science undergrad at DTU, New Delhi
+
 I love tinkering with machine learning algorithms, building deep learning models, and solving complex real-world problems using OpenCV and data structures.
+
 You'll find me building neural networks, debugging vision pipelines, or optimizing code for that last millisecond.
+
 Here to push the boundaries of AI, compete in hackathons, and contribute to open-source one commit at a time!
 
 </div>
