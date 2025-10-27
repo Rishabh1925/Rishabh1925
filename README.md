@@ -89,3 +89,46 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 </div>
+
+## 🚀 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1925&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh1925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+</div>
+
+## 💻 My Activity & Contributions
+
+**Option 1: GitHub Activity Graph (Original)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+</div>
+
+**Option 2: GitHub Activity Graph with Custom Theme**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=github-compact&hide_border=true&bg_color=1a1a2e&color=F85D7F&line=00D9FF&point=F8D866" alt="Contribution Graph" width="100%"/>
+</div>
+
+**Option 3: Neon Purple Theme**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=high-contrast&hide_border=true&bg_color=000000&color=9745f5&line=FF6EC7&point=00FFF5" alt="Contribution Graph" width="100%"/>
+</div>
+
+**Option 4: Ocean Blue Gradient**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0A192F&color=64FFDA&line=00D9FF&point=CCD6F6" alt="Contribution Graph" width="100%"/>
+</div>
+
+**Option 5: Sunset Vibes**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=redical&hide_border=true&bg_color=1F1B24&color=FF6B6B&line=FFD93D&point=6BCF7F" alt="Contribution Graph" width="100%"/>
+</div>
+
+**Option 6: Cyberpunk**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FF00FF&line=00FFFF&point=FFFF00" alt="Contribution Graph" width="100%"/>
+</div>
