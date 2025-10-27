@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="assets/home-banner.png" width="100%">
 <div align="center">
   
 # Hi, I am Rishabh
@@ -90,17 +90,6 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 </div>
 
-## 🚀 GitHub Stats & Achievements
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1925&theme=radical&hide_border=true&background=16213e&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh1925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
-
 ## 💻 My Activity & Contributions
 
 <div align="center">
@@ -131,3 +120,5 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FF00FF&line=00FFFF&point=FFFF00" alt="Contribution Graph" width="100%"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
