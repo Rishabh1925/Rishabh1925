@@ -1,14 +1,22 @@
 <img src="assets/home-banner.png" width="100%" />
 
-
 ## Hi, I am Rishabh
 
-Tech Explorer | ML/DL Enthusiast | DSA Solver | OpenCV Fan
+**Tech Explorer | ML/DL Enthusiast | DSA Solver | OpenCV Fan**
 
 Second-year Mathematics & Computer Science undergrad at DTU, New Delhi
+
 I love tinkering with machine learning algorithms, building deep learning models, and solving complex real-world problems using OpenCV and data structures.
+
 You'll find me building neural networks, debugging vision pipelines, or optimizing code for that last millisecond.
+
 Here to push the boundaries of AI, compete in hackathons, and contribute to open-source one commit at a time!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<br>
 
 ## About Me
 
@@ -21,6 +29,8 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 - Diving deep into the world of **Artificial Intelligence** and **Deep Learning**, constantly experimenting with neural networks and computational models
 
 - Avid problem solver who enjoys tackling complex algorithmic challenges and optimizing code performance
+
+- Active contributor to **open-source projects**, believing in the power of collaborative development and knowledge sharing
 
 - Lifelong learner who thrives on staying updated with emerging tech trends and pushing the boundaries of what's possible
 
