@@ -94,7 +94,7 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1925&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1925&theme=radical&hide_border=true&background=1a1a2e&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
@@ -103,7 +103,6 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 
 ## 💻 My Activity & Contributions
 
-**Option 1: GitHub Activity Graph (Original)**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 </div>
