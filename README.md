@@ -84,7 +84,7 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 ## Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%"/>
 </div>
 
 ## Connect
