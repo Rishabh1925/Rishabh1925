@@ -12,30 +12,9 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 </div>
 
 <br>
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishabh-ranjan-singh/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  </a>
-  <a href="mailto:rishabhranjansingh_mc24b06_019@dtu.ac.in" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
-  </a>
-  <a href="https://discord.com/users/rishabh1902" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
-  </a>
-</div>
-
-</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</div>
-<br>
 
 ## About Me
 
@@ -102,45 +81,24 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh1925&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh1925&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
-
 ## Activity & Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 </div>
 
-## 💻 My Activity & Contributions
+## Connect
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" width="100%"/>
-</div>
-
-**Option 2: GitHub Activity Graph with Custom Theme**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=github-compact&hide_border=true&bg_color=1a1a2e&color=F85D7F&line=00D9FF&point=F8D866" alt="Contribution Graph" width="100%"/>
-</div>
-
-**Option 3: Neon Purple Theme**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=high-contrast&hide_border=true&bg_color=000000&color=9745f5&line=FF6EC7&point=00FFF5" alt="Contribution Graph" width="100%"/>
-</div>
-
-**Option 4: Ocean Blue Gradient**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=react-dark&hide_border=true&bg_color=0A192F&color=64FFDA&line=00D9FF&point=CCD6F6" alt="Contribution Graph" width="100%"/>
-</div>
-
-**Option 5: Sunset Vibes**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=redical&hide_border=true&bg_color=1F1B24&color=FF6B6B&line=FFD93D&point=6BCF7F" alt="Contribution Graph" width="100%"/>
-</div>
-
-**Option 6: Cyberpunk**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh1925&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FF00FF&line=00FFFF&point=FFFF00" alt="Contribution Graph" width="100%"/>
+  <a href="https://www.linkedin.com/in/rishabh-ranjan-singh/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  </a>
+  <a href="mailto:rishabhranjansingh_mc24b06_019@dtu.ac.in" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+  </a>
+  <a href="https://discord.com/users/rishabh1902" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
