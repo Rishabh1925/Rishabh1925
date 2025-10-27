@@ -10,6 +10,27 @@ I love tinkering with machine learning algorithms, building deep learning models
 You'll find me building neural networks, debugging vision pipelines, or optimizing code for that last millisecond.
 Here to push the boundaries of AI, compete in hackathons, and contribute to open-source one commit at a time!
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rishabh-ranjan-singh/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  </a>
+  <a href="mailto:rishabhranjansingh_mc24b06_019@dtu.ac.in" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+  </a>
+  <a href="https://discord.com/users/rishabh1902" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+  </a>
+</div>
+
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
