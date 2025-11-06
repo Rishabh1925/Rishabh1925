@@ -107,7 +107,7 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
     </a>
   </p>
   
-  <sub>Every badge stands as a testament to ongoing learning, collective teamwork, and meaningful contributions to the developer community.</sub>
+  <sub>Every badge stands as a testament to ongoing learning, collective teamwork, and meaningful contributions to the developer community</sub>
   
 </div>
 
