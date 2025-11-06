@@ -74,6 +74,43 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
+## Hacktoberfest 2025 Achievement
+
+
+<div align="center" style="margin: 30px 0;">
+
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhnolokg00cqjs04cl248shy" target="_blank">
+    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="240" style="border-radius:15px; margin: 20px;"/>
+  </a>
+  
+  
+  ### **Badge Collection**
+  
+  <p align="center">
+     <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmha6za5w006yl8049hj571ri" target="_blank">
+      <img src="badges/lvl0-astronaut.webp" alt="Level 0" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhllbb5z001gl8040wmac40y" target="_blank">
+      <img src="badges/lvl1-astronaut.webp" alt="Level 1" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhn1uzwr00avkw040ot0339u" target="_blank">
+      <img src="badges/lvl2-astronaut.webp" alt="Level 2" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhn1uzwr00awkw04cy4jx3f7" target="_blank">
+      <img src="badges/lvl3-astronaut.webp" alt="Level 3" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhn1uzu100aukw04vmuxlhpz" target="_blank">
+      <img src="badges/lvl4-astronaut.webp" alt="Level 4" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/userbadge/cmhnoydvp004jld04kprc83n6" target="_blank">
+      <img src="badges/treenation.webp" alt="TreeNation" width="90"/>
+    </a>
+  </p>
+  
+  <sub>Every badge stands as a testament to ongoing learning, collective teamwork, and meaningful contributions to the developer community.</sub>
+  
+</div>
+
 ## Stats & Achievements
 
 <div align="center">
