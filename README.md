@@ -3,7 +3,7 @@
 
 # Hi, I am Rishabh 
 
-**Tech Explorer | ML/DL Enthusiast | DSA | OpenCV**
+**Tech Explorer | ML/DL Enthusiast | DSA | OpenCV** 
 
 Second-year Mathematics & Computer Science undergrad at DTU
 I love tinkering with machine learning algorithms, building deep learning models, and solving complex real-world problems using OpenCV and data structures.
