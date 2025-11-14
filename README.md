@@ -1,7 +1,7 @@
 <img src="assets/home-banner.png" width="100%">
 <div align="center">
  
-# Hi, I am Rishabh 
+# Hi, I am Rishabh
 
 **Tech Explorer | ML/DL Enthusiast | DSA | OpenCV** 
 
