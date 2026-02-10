@@ -114,7 +114,10 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 ## Stats & Achievements
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+ 
+[![](https://visitcount.itsvg.in/api?id=Rishabh1925&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rishabh1925&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
 </div>
 
 ## Activity & Contributions
@@ -126,9 +129,9 @@ Here to push the boundaries of AI, compete in hackathons, and contribute to open
 ## Connect
 
 <div align="center">
-  <!-- <a href="https://www.linkedin.com/in/rishabh-ranjan-singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/rishabh-ranjan-singh/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-  </a> -->
+  </a>
   <a href="mailto:rishabhranjansingh_mc24b06_019@dtu.ac.in" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
   </a>
