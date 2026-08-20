@@ -5,7 +5,7 @@
 
 **Tech Explorer | ML/DL Enthusiast | DSA | OpenCV** 
 
-Second-year Mathematics & Computer Science undergrad at DTU
+Third-year Mathematics & Computer Science undergrad at DTU.
 I love tinkering with machine learning algorithms, building deep learning models, and solving complex real-world problems using OpenCV and data structures.
 You'll find me building neural networks, debugging vision pipelines, or optimizing code for that last millisecond.
 Here to push the boundaries of AI, compete in hackathons, and contribute to open-source one commit at a time!
